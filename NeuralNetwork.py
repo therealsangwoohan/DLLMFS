@@ -1,5 +1,5 @@
 import NNF_pytorch as NNF  # Functions that are usful for the developer, but not for the common user are not part of the NeuralNetwork class. Instead, they are written in this separate module.
-import torch  # Import numpy instead of torch if using NNF_numpy instead of NNF_pytorch.
+import torch  # This is optional. Import numpy instead of torch if using NNF_numpy instead of NNF_pytorch.
 import pickle  # To save instances of this class.
 
 
