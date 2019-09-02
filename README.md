@@ -7,4 +7,4 @@ After that, I learned OOP with Python and Numpy to create a class to easily comp
 
 Later, when I learned about how GPUs are essential for parallel computing, I replaced every numpy arrays to torch gpu tensors. 
 
-Right now, training a Neural Network with Cross-Entropy and Gradient Descent using my library is just as fast as Tensorflow and Pytorch.
+Right now, training a Neural Network with Cross-Entropy and Gradient Descent using my library is just as fast and accurate as Tensorflow's and Pytorch's.
